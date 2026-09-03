@@ -1,0 +1,9 @@
+schema_version: 1
+current_mission_id: B1-2
+previous_mission_ids:
+  - B4-2
+stable_topic_id: react-spa
+official_title_ko: "버튼 누르면 화면이 스르륵 바뀌는 요즘 웹사이트 만들기"
+repository: MetaStudy999/codyssey-basic-react-spa
+control_tower_map: https://github.com/MetaStudy999/codyssey-basic/blob/main/CURRENT-MISSION-MAP.md
+numbering_updated_at: "2026-09-03"
